@@ -4,7 +4,6 @@
 
 
 ## 🙋‍♂️ About Me
-<br>
 
 - 🔭 I’m currently working on completing a full stack development bootcamp at  **[Moringa School](https://moringaschool.com/)**.
 
