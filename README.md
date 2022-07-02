@@ -16,7 +16,6 @@
 <br>
 
 ## 🚀 Languages and Tools:
-<br>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -38,7 +37,7 @@
 
 ## 📊 My Github Stats
 
-  <br/>
+  <br>
     <a href="https://github.com/said-cmd/github-readme-stats"><img alt="Said Hussein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=said-cmd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br>
     <br>
