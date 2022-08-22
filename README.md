@@ -28,7 +28,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/344/react.png" width="45" height="45"/>
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/fluency/344/node-js.png" width="45" height="45"/>
     <a href="https://www.ruby-lang.org/en/" target=_blank"> <img src="https://img.icons8.com/color/344/ruby-programming-language.png" width="45" height="45"/>
-    <a href="https://en.wikipedia.org/wiki/SQL" target=_blank"> <img src"https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" width="45" height="45"/>
+    <a href="https://en.wikipedia.org/wiki/SQL" target=_blank"> <img src"https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" width="45" height="45"/>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
