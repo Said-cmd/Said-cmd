@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **full stack development.**
 
-- 👨‍💻 All of my work is available on this github profile
+- 👨‍💻 All of my work is available on this github profile.
 
-- 📫 You can reach me at **saidhussein12342@gmail.com**
+- 📫 You can reach me at **saidhussein12342@gmail.com.**
 
 <br>
 
