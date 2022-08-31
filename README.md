@@ -28,7 +28,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/344/react.png" width="45" height="45"/>
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/fluency/344/node-js.png" width="45" height="45"/>
     <a href="https://www.ruby-lang.org/en/" target=_blank"> <img src="https://img.icons8.com/color/344/ruby-programming-language.png" width="45" height="45"/>
-      <a href="https://www.iso.org/standard/63555.html" target=_blank"> <img src="https://cdn-icons.flaticon.com/png/512/5815/premium/5815478.png?token=exp=1661179514~hmac=b2488b25b39ab817fb345e5216dc0e13" width="45" height="45"/>
+      <a href="https://www.iso.org/standard/63555.html" target=_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png" width="45" height="45"/>
          <a href="https://www.sqlite.org/index.html" target=_blank"> <img src="https://alexcvzz.gallerycdn.vsassets.io/extensions/alexcvzz/vscode-sqlite/0.14.1/1654359416316/Microsoft.VisualStudio.Services.Icons.Default" width="45" height="45"/>
 </p>
 
