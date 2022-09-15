@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="35px">, I'm Said </h1>
-<h3 align="center">An aspiring Full Stack Developer</h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="35px">, I'm Said </h1>
+<h3 align="left">An aspiring Full Stack Developer</h3>
 
 
 
@@ -22,6 +22,7 @@
 <a href = "https://www.instagram.com/saidhusssein/">  <img alt="Said Hussein" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" /></a>
 </p>
 <br>
+
 ## 🛠 Tech Stack
 
 ### Languages
