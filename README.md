@@ -12,9 +12,16 @@
 - 👨‍💻 All of my work is available on this github profile.
 
 - 📫 You can reach me at **saidhussein12342@gmail.com.**
-
 <br>
 
+## Connect with me
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/said-hussein-5136551a3/"><img align="left" alt="Said Hussein" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" /></a>
+<a href = "https://twitter.com/saidhusssein"><img align="left" alt="Said Hussein" src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" /></a>
+<a href = "https://www.instagram.com/saidhusssein/">  <img alt="Said Hussein" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" /></a>
+</p>
+<br>
 ## 🛠 Tech Stack
 
 ### Languages
@@ -50,7 +57,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Said Hussein's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=said-cmd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
   <br>
     <a href="https://github.com/said-cmd/github-readme-stats"><img alt="Said Hussein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=said-cmd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br>
@@ -59,11 +65,3 @@
   <br/>
  <br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=said-cmd&color=blueviolet alt=said-cmd/></p>
-
-## Connect with me
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/said-hussein-5136551a3/"><img align="left" alt="Said Hussein" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" /></a>
-<a href = "https://twitter.com/saidhusssein"><img align="left" alt="Said Hussein" src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" /></a>
-<a href = "https://www.instagram.com/saidhusssein/">  <img alt="Said Hussein" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" /></a>
-</p>
