@@ -26,6 +26,7 @@
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material-UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ### Back-end
+![Ruby on Rails Badge](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Ruby Sinatra Badge](https://img.shields.io/badge/Ruby%20Sinatra-000000?style=for-the-badge&logo=ruby-sinatra&logoColor=white)
 ### Version Control
